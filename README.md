@@ -1,5 +1,5 @@
 # hello-world
-My practice repository
+My first practice repository
 
 I will be learning how to use GitHub with this file.
 Let's se how far we get!
